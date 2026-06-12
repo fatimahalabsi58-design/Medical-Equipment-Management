@@ -161,8 +161,8 @@ Random Forest was selected as the best model based on AUC-ROC score.
 Biomedical Engineering Student  
 📜 Cisco Introduction to Data Science — Certified June 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/fatimah-jamaan-64678327b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/fatimahalabsi58-design)
 
 -----
 
